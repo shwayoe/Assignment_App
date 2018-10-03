@@ -1,0 +1,12 @@
+﻿@model System.Int32
+
+@{
+    ViewBag.Title = "Result";
+}
+
+<h2>Result</h2>
+<p>Congratulation! Your Result Score is </p>
+@Html.DisplayFor(modelItem => Model) <br /><br />
+
+<input type="button" value="Home" onclick="location.href='@Url.Action("Index","Home")'" />
+

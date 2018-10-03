@@ -1,0 +1,150 @@
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\ApplicationInsights.config
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\roslyn\csc.exe
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\roslyn\csc.exe.config
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\roslyn\csc.rsp
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\roslyn\csi.exe
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\roslyn\csi.rsp
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\roslyn\System.AppContext.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\roslyn\vbc.exe
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\roslyn\vbc.exe.config
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\roslyn\vbc.rsp
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\roslyn\VBCSCompiler.exe
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\YuneNadiOo.dll.config
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\YuneNadiOo.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\YuneNadiOo.pdb
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\Antlr3.Runtime.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\EntityFramework.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\EntityFramework.SqlServer.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\Microsoft.AI.Web.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\Newtonsoft.Json.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\System.Web.Helpers.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\System.Web.Mvc.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\System.Web.Optimization.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\System.Web.Razor.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\System.Web.WebPages.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\System.Web.WebPages.Razor.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\WebGrease.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\EntityFramework.xml
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\EntityFramework.SqlServer.xml
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\System.Web.Helpers.xml
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\System.Web.Mvc.xml
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\System.Web.Optimization.xml
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\System.Web.Razor.xml
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\System.Web.WebPages.xml
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\System.Web.WebPages.Razor.xml
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\Antlr3.Runtime.pdb
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\Newtonsoft.Json.xml
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\bin\Microsoft.AI.Web.xml
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\obj\Debug\YuneNadiOo.dll
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\obj\Debug\YuneNadiOo.pdb
+C:\Users\acer\documents\visual studio 2017\Projects\YuneNadiOo\YuneNadiOo\obj\Debug\YuneNadiOo.csprojResolveAssemblyReference.cache
+D:\YuneNadiOo\YuneNadiOo\bin\ApplicationInsights.config
+D:\YuneNadiOo\YuneNadiOo\bin\roslyn\csc.exe
+D:\YuneNadiOo\YuneNadiOo\bin\roslyn\csc.exe.config
+D:\YuneNadiOo\YuneNadiOo\bin\roslyn\csc.rsp
+D:\YuneNadiOo\YuneNadiOo\bin\roslyn\csi.exe
+D:\YuneNadiOo\YuneNadiOo\bin\roslyn\csi.rsp
+D:\YuneNadiOo\YuneNadiOo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\YuneNadiOo\YuneNadiOo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\YuneNadiOo\YuneNadiOo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\YuneNadiOo\YuneNadiOo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\YuneNadiOo\YuneNadiOo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\YuneNadiOo\YuneNadiOo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\YuneNadiOo\YuneNadiOo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\YuneNadiOo\YuneNadiOo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\YuneNadiOo\YuneNadiOo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\YuneNadiOo\YuneNadiOo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\YuneNadiOo\YuneNadiOo\bin\roslyn\System.AppContext.dll
+D:\YuneNadiOo\YuneNadiOo\bin\roslyn\System.Collections.Immutable.dll
+D:\YuneNadiOo\YuneNadiOo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\YuneNadiOo\YuneNadiOo\bin\roslyn\System.IO.FileSystem.dll
+D:\YuneNadiOo\YuneNadiOo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\YuneNadiOo\YuneNadiOo\bin\roslyn\System.Reflection.Metadata.dll
+D:\YuneNadiOo\YuneNadiOo\bin\roslyn\vbc.exe
+D:\YuneNadiOo\YuneNadiOo\bin\roslyn\vbc.exe.config
+D:\YuneNadiOo\YuneNadiOo\bin\roslyn\vbc.rsp
+D:\YuneNadiOo\YuneNadiOo\bin\roslyn\VBCSCompiler.exe
+D:\YuneNadiOo\YuneNadiOo\bin\roslyn\VBCSCompiler.exe.config
+D:\YuneNadiOo\YuneNadiOo\bin\YuneNadiOo.dll.config
+D:\YuneNadiOo\YuneNadiOo\bin\YuneNadiOo.dll
+D:\YuneNadiOo\YuneNadiOo\bin\YuneNadiOo.pdb
+D:\YuneNadiOo\YuneNadiOo\bin\Antlr3.Runtime.dll
+D:\YuneNadiOo\YuneNadiOo\bin\EntityFramework.dll
+D:\YuneNadiOo\YuneNadiOo\bin\EntityFramework.SqlServer.dll
+D:\YuneNadiOo\YuneNadiOo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\YuneNadiOo\YuneNadiOo\bin\Microsoft.AI.DependencyCollector.dll
+D:\YuneNadiOo\YuneNadiOo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\YuneNadiOo\YuneNadiOo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\YuneNadiOo\YuneNadiOo\bin\Microsoft.AI.Web.dll
+D:\YuneNadiOo\YuneNadiOo\bin\Microsoft.AI.WindowsServer.dll
+D:\YuneNadiOo\YuneNadiOo\bin\Microsoft.ApplicationInsights.dll
+D:\YuneNadiOo\YuneNadiOo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\YuneNadiOo\YuneNadiOo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\YuneNadiOo\YuneNadiOo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\YuneNadiOo\YuneNadiOo\bin\Microsoft.Web.Infrastructure.dll
+D:\YuneNadiOo\YuneNadiOo\bin\Newtonsoft.Json.dll
+D:\YuneNadiOo\YuneNadiOo\bin\System.Web.Helpers.dll
+D:\YuneNadiOo\YuneNadiOo\bin\System.Web.Mvc.dll
+D:\YuneNadiOo\YuneNadiOo\bin\System.Web.Optimization.dll
+D:\YuneNadiOo\YuneNadiOo\bin\System.Web.Razor.dll
+D:\YuneNadiOo\YuneNadiOo\bin\System.Web.WebPages.Deployment.dll
+D:\YuneNadiOo\YuneNadiOo\bin\System.Web.WebPages.dll
+D:\YuneNadiOo\YuneNadiOo\bin\System.Web.WebPages.Razor.dll
+D:\YuneNadiOo\YuneNadiOo\bin\WebGrease.dll
+D:\YuneNadiOo\YuneNadiOo\bin\EntityFramework.xml
+D:\YuneNadiOo\YuneNadiOo\bin\EntityFramework.SqlServer.xml
+D:\YuneNadiOo\YuneNadiOo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\YuneNadiOo\YuneNadiOo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\YuneNadiOo\YuneNadiOo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\YuneNadiOo\YuneNadiOo\bin\System.Web.Helpers.xml
+D:\YuneNadiOo\YuneNadiOo\bin\System.Web.Mvc.xml
+D:\YuneNadiOo\YuneNadiOo\bin\System.Web.Optimization.xml
+D:\YuneNadiOo\YuneNadiOo\bin\System.Web.Razor.xml
+D:\YuneNadiOo\YuneNadiOo\bin\System.Web.WebPages.xml
+D:\YuneNadiOo\YuneNadiOo\bin\System.Web.WebPages.Deployment.xml
+D:\YuneNadiOo\YuneNadiOo\bin\System.Web.WebPages.Razor.xml
+D:\YuneNadiOo\YuneNadiOo\bin\Antlr3.Runtime.pdb
+D:\YuneNadiOo\YuneNadiOo\bin\Newtonsoft.Json.xml
+D:\YuneNadiOo\YuneNadiOo\bin\Microsoft.ApplicationInsights.xml
+D:\YuneNadiOo\YuneNadiOo\bin\Microsoft.AI.DependencyCollector.xml
+D:\YuneNadiOo\YuneNadiOo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\YuneNadiOo\YuneNadiOo\bin\Microsoft.AI.WindowsServer.xml
+D:\YuneNadiOo\YuneNadiOo\bin\Microsoft.AI.Web.xml
+D:\YuneNadiOo\YuneNadiOo\obj\Debug\YuneNadiOo.dll
+D:\YuneNadiOo\YuneNadiOo\obj\Debug\YuneNadiOo.pdb
+D:\YuneNadiOo\YuneNadiOo\obj\Debug\YuneNadiOo.csprojResolveAssemblyReference.cache

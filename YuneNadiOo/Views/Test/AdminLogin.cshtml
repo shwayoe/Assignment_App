@@ -1,0 +1,38 @@
+﻿@model IEnumerable<YuneNadiOo.Admin>
+
+@{
+    ViewBag.Title = "AdminLogin";
+}
+
+<h2>Admin Login</h2>
+@using (Html.BeginForm("AdminLogin", "Test", FormMethod.Post))
+{
+<table class="table">
+@foreach (Admin item in Model)
+{       
+        <tr>
+        <td>
+            Name:  <input type="text" name="adname" />
+        </td>
+        </tr>
+    <tr>
+        <td>
+            Password:  <input type="text" name="pass" />
+        </td>
+    </tr>
+        <tr>
+        <td>
+            <input type="submit" value="submit" />
+        </td>
+            <td>
+                @Html.Raw(TempData["testmsg"]);
+            </td>
+            <td>
+                <input type="hidden" name="AdminName" value=@item.name />
+                <input type="hidden" name="AdminPass" value=@item.password />
+            </td>
+         </tr>
+        }
+
+</table>
+}

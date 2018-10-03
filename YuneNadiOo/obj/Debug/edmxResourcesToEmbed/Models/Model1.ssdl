@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AssignmentModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'Assignment.dbo.Test' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Test">
+    <Key>
+      <PropertyRef Name="Qid" />
+    </Key>
+    <Property Name="Qid" Type="int" Nullable="false" />
+    <Property Name="Question" Type="varchar" MaxLength="50" />
+    <Property Name="Answer1" Type="varchar" MaxLength="50" />
+    <Property Name="Answer2" Type="varchar" MaxLength="50" />
+    <Property Name="Answer3" Type="varchar" MaxLength="50" />
+    <Property Name="Actual_Answer" Type="varchar" MaxLength="50" />
+    <Property Name="Image" Type="varchar" MaxLength="60" />
+  </EntityType>
+  <EntityContainer Name="AssignmentModelStoreContainer">
+    <EntitySet Name="Test" EntityType="Self.Test" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Test].[Qid] AS [Qid], 
+    [Test].[Question] AS [Question], 
+    [Test].[Answer1] AS [Answer1], 
+    [Test].[Answer2] AS [Answer2], 
+    [Test].[Answer3] AS [Answer3], 
+    [Test].[Actual_Answer] AS [Actual_Answer], 
+    [Test].[Image] AS [Image]
+    FROM [dbo].[Test] AS [Test]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,60 @@
+﻿@model YuneNadiOo.Test
+
+@{
+    ViewBag.Title = "Testing";
+}
+@Scripts.Render("~/bundles/jquery")
+<h2>ColorTest</h2>
+@using (Html.BeginForm("Testing", "Test", FormMethod.Post, new { id="myform"}))
+{
+    <div>
+        <table class="table">
+
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => Model.Question)
+                    </td>
+                    <td>
+                        <input type="radio" name="Answer" value=@Model.Answer1 />@Model.Answer1
+
+                    </td>
+                    <td>
+                        <input type="radio" name="Answer" value=@Model.Answer2 />@Model.Answer2
+                    </td>
+                    <td>
+                        <input type="radio" name="Answer" value=@Model.Answer3 />@Model.Answer3
+                    </td>
+                    <td>
+                        <input type="submit" value="submit"/>
+                      
+                     
+                    </td>
+
+                  
+                    <td><input type="hidden" name="QuestionID" value=@Model.Qid />
+                        <input type="hidden" name="ActualAnswer" value=@Model.Actual_Answer />
+                        <input type="hidden" name="id" value=@(Model.Qid + 1) />
+                        <input type="hidden" name="result" value=@ViewData["result"] />
+                    </td>
+               
+                    <td>
+                        <img src="@Url.Content(Model.Image)" />
+                    </td>
+                </tr>
+
+            
+
+        </table>
+    </div>
+
+}
+<script>
+    $('#myform').on('submit', function (e) {
+        if (!$('input:radio[name="Answer"]').is(':checked')) {
+            alert("Please Select Answer");
+            e.preventDefault();
+            return;
+        }
+        this.submit();
+    });
+</script>
